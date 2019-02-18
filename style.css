@@ -1,0 +1,136 @@
+#colors {
+    font-family: 'Coiny', cursive;
+    color: #5dc0a6;
+    font-family: 'Hanalei Fill', cursive;
+    font-size: 46px;
+}
+#btn-color {
+    font-family: 'Pacifico', cursive;
+    font-size: 46px;
+    color: #dcaee8;
+}
+/************************/
+/* 	    COULEURS        */
+/************************/
+.primary {
+    
+   background-color: #ffc1c8;
+   width: 50%;
+   height: 50px;
+}
+.secondary {
+    margin-top: 30px;
+    background-color: #8ed6ff;
+    width: 50%;
+    height: 50px;
+ }
+ .dark{
+    margin-top: 30px;
+    background-color: #7d7d7d;
+    width: 50%;
+    height: 50px;
+ }
+ .medium-light {
+    margin-top: 30px;
+    background-color: #d1d1d1;
+    width: 50%;
+    height: 50px;
+ }
+ .light {
+    margin-top: 30px;
+    background-color: #ebf0f6;
+    width: 50%;
+    height: 50px;
+ }
+ /************************/
+/* 	    COULEURS        */
+/************************/
+
+/* .all_btn{
+    margin-top: 10px;
+} */
+.btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+.btn-1 {
+     background-color: #8ed6ff;
+  }
+.btn-2 {
+    background-color: #fccb8f;
+}
+.btn-3 {
+    background-color: #fb3569;
+}
+.btn-4 {
+    background-color: #408ab4;
+}
+.btn-5 {
+    background-color: #808b97;
+}
+.btn-outline {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  .btno-1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #8ed6ff;
+  }
+   .btno-1:hover {
+    background-color: #8ed6ff;
+    color: white;
+  }
+  .btno-2{
+    background-color: white; 
+    color: black; 
+    border: 2px solid #fccb8f;
+  }
+   .btno-2:hover {
+    background-color: #fccb8f;
+    color: white;
+  }
+  .btno-3{
+    background-color: white; 
+    color: black; 
+    border: 2px solid #fb3569;
+  }
+   .btno-3:hover {
+    background-color: #fb3569;
+    color: white;
+  }
+  .btno-4 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #408ab4;
+  }
+   .btno-4:hover {
+    background-color: #408ab4;
+    color: white;
+  }
+  .btno-5 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #808b97;
+  }
+   .btno-5:hover {
+    background-color: #808b97;
+    color: white;
+  }
